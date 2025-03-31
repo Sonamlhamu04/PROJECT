@@ -1,23 +1,23 @@
 
 let fruitsArray = [
-    "assets/avocado.png",
-    "assets/blueberry.png",
-    "assets/coconut.png",
-    "assets/kiwi.png",
-    "assets/lemon.png",
-    "assets/mango.png",
-    "assets/orange.png",
-    "assets/watermelon.png",
+    "images/avocado.png",
+    "images/blueberry.png",
+    "images/coconut.png",
+    "images/kiwi.png",
+    "images/lemon.png",
+    "images/mango.png",
+    "images/orange.png",
+    "images/watermelon.png",
   ];
   
   let newFruits = [
-    "assets/tomato.png",
-    "assets/cherry.png",
-    "assets/melon.png",
-    "assets/pear.png",
-    "assets/peach.png",
-    "assets/redapple.png",
-    "assets/greenapple.png",
+    "images/tomato.png",
+    "images/cherry.png",
+    "images/melon.png",
+    "images/pear.png",
+    "images/peach.png",
+    "images/redapple.png",
+    "images/pomo.png",
   ];
   
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
