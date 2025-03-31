@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(250, 219, 139);
+    text-align: center;
+  }
+  h1 {
+    padding: 20px;
+  }
+  p {
+    padding-bottom: 20px;
+  }
+  .mainmenu, .normaldeck, .harddeck, .successNormal, .successHard, .failure {
+    max-width: 520px;
+    height: 500px;
+    background-color: white;
+    margin: 200px auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  }
+  .mainmenu {
+    padding: 120px;
+  }
+  .btn-secondary {
+    background-color: rgb(250, 219, 139);
+    color: black;
+    width: 100px;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  }
+  .btn-secondary:hover {
+    background-color: rgb(82, 62, 13);
+    color: white;
+    cursor: pointer;
+  }
+  .normaldeck {
+    padding: 60px 50px;
+    font-size: 35px;
+  }
+  .harddeck {
+    padding: 50px 30px;
+    font-size: 25px;
+  }
+  .normalCard, .hardCard {
+    margin: 5px;
+    background-color: rgb(250, 219, 139);
+    border: 0;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .successNormal, .successHard, .failure {
+    padding: 130px 20px;
+  }
+  .next, .back, .back1, .tryagain {
+    width: 130px;
+  }
+  .timer, .timervalue, .timerhard, .hardtimervalue {
+    font-size: 18px;
+    margin-top: -30px;
+    margin-bottom: 10px;
+  }
+  .none {
+    display: none;
+  }
